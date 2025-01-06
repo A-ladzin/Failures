@@ -1,0 +1,88 @@
+trend_id,trend,explanation
+0,Long delivery,"- long delivery
+- very long delivery
+- here we include comments without specifics
+"
+1,Delivery has become long,"- the client emphasizes that we used to deliver faster"
+2,Delivery time does not match the stated one,"- the client emphasizes that the SLA does not match the actual delivery time (always or often)"
+3,Regular delays,"- the client emphasizes that we often/every order deliver the order late"
+4,Unable to track the actual delivery time,"- the client says that it is impossible to understand when the order will arrive
+- no actual delivery time
+- the client asks the question ""where is the order""/""how long will it take""
+5,Courier on the map,"- if the client mentions the courier being displayed on the map"
+6,No delivery to the address,"the client complains that there is no delivery to address"
+7,Not notifying about product removal,"- not notifying about product removal
+- not offering product replacement"
+8,High minimum order amount, customer complains about the minimum order amount
+9,Order amount changes while filling the basket,"- order amount changes while filling the basket
+- ​​have to add products several times to reach the minimum amount"
+10,Minimum order amount,"- customer complains about the minimum amount in principle"
+11,Products with an appropriate expiration date,"- customer complains that we bring products with an almost expired expiration date"
+12,High prices,"- customer complains about high prices"
+13,Product not delivered,"- customer says that the product was not delivered, without mentioning the reason"
+14,Product damaged during delivery,"any damage to the product during delivery"
+15,Expired products, product with an expired expiration date was delivered
+16,Comments on the work couriers,"- they are rude
+- they don't read comments
+- they don't understand Russian
+- they don't deliver the order to the door
+etc." 17,We don't read comments,"- the client complains that we haven't fulfilled the comment (without mentioning the courier)"
+18,Thank you,"the client thanks the service, in any format
+- well done, keep it up
+- everything is great
+- 👍🏻"
+19,No point,"- the meaning of the appeal is unclear or doesn't exist"
+20,Everything is fine,"the client neutrally evaluates the service
+- everything is fine
+- fine
+- satisfied"
+21,Everything is bad, negative comments without specifics
+22,Discounts for regular customers,"customers say that we don't have:
+- discounts for regular customers
+- discounts on the next order
+- loyalty programs"
+23,More promotions/discounts,"the client says that we need more promotions/discounts/promo codes"
+24,The discount/promo code does not apply to all products,"- essentially this is a complaint about not summing up
+- the client complains that the basket discount does not apply to discounted items in the display case
+- that the basket discount only applies to a certain category of items"
+25,It is unclear how the discount works,"- it is unclear which discount was applied in the basket"
+26,Discount/promotion/promo code did not work,"- the customer complains that the discount does not work"
+27,Quality of goods,"the customer complains about the quality of goods"
+28,Small assortment,"- complaints about the small assortment"
+29,Out of stock of goods,"- complaints about the fact that there are no goods in stock that we have in our assortment"
+30,Quality of support,"any comments on the work of support"
+31,Comments on the work of the assembler,"- we put incompatible products in the same bag (chemicals with food, pet food with food, etc.)
+- we do not use thermal bags for frozen products
+- we put the wrong things (mix up the goods)"
+32,Cancelled order,"- the client complains that his order was cancelled"
+33,Knowledge of the Russian language,- couriers do not understand/read/speak Russian
+34,They delivered someone else's order,- they mixed up the order
+35,Long time to assemble,,"- it takes a long time to assemble the order"
+36,Comparison with competitors,,"- comparison with other grocery delivery services"
+37,Discounts for lateness,,"- asking for discounts/compensation"
+38,Couriers cancel the order,,"- customers complain that the courier cancelled the order"
+39,Not a trend,,"We put it where it does not fit any trend."
+40,Spoiled goods, "- we deliver products within the expiration date, but they are spoiled"
+41,I don't like the application interface, - I just don't like the application
+42,The application freezes, "- the application is unstable, freezes"
+43,Fast delivery, - we deliver quickly
+44,Working conditions of couriers, "- raise the rate for couriers
+- dress them warmer, etc."
+45,SberSpasibo, "- difficulties with connection
+- any comments on SberSpasibo"
+46,Working hours, "- we close early
+- 24-hour delivery
+- make delivery from X o'clock"
+47,Inconvenient search, "- inconvenient search
+- don't like catalog navigation
+- don't like catalog structure (stories in catalog, promotions among products, etc.)"
+48,Payments, "- complaints about payments
+- payment to courier in cash or by card
+- problems with payment
+- SBP
+- display of card
+- any comments on cards
+- payments don't go through
+- checks, receipts"
+49,Refunds, "- complain about long refunds
+- complain that they didn't return the money"
