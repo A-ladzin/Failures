@@ -1,0 +1,30 @@
+# Git
+.git
+.gitignore
+
+# Training artifacts — not needed in inference image
+experiments/
+eda_output/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Training scripts — not needed at inference
+train_wavlm.py
+train_reranker.py
+train_baseline.py
+eda_compare.py
+
+# Large data files — mounted at runtime
+data/
+*.npy
+*.csv
+!requirements.txt
+
+# Checkpoints — mounted at runtime, not baked in
+checkpoints/
+*.pt
+*.onnx
+
+# Docs
+*.md
